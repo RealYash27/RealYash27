@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RealYash27/RealYash27/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/RealYash27/RealYash27/blob/output/github-snake-dark.svg)
 
 ###
