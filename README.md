@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring cybersecurity expert with a strong foundation in cybersecurity principles and technologies along with a keen interest in Blockchain and blockchain development!</p>
+<p align="left">I am an aspiring cybersecurity expert with a strong foundation in cybersecurity principles and technologies along with a keen interest in Blockchain and blockchain development!</p>
 
 ###
 
