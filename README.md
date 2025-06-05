@@ -39,7 +39,7 @@
 </div>
 
 ###
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RealYash27&show_icons=true&locale=en&layout=compact" alt="RealYash27" /></p>
 ###
 
 ![snake gif](https://github.com/RealYash27/RealYash27/blob/output/github-snake-dark.svg)
