@@ -1,5 +1,5 @@
 <a href="https://github.com/RealYash27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&vCenter=true&width=600&lines=%24+whoami;Yashvardhan+Rao+%E2%80%94+Cybersecurity+Engineer;AppSec+%7C+VAPT+%7C+SOC+%7C+GRC+%7C+Post-Quantum+Crypto;HACK+IITK+2026+Grand+Finalist" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&vCenter=true&width=600&lines=%24+whoami;Yashvardhan+Rao+%E2%80%94+Cybersecurity+Engineer;AppSec+%7C+VAPT+%7C+SOC+%7C+GRC+%7C+Network+Security;HACK+IITK+2026+Grand+Finalist" alt="typing intro" />
 </a>
 
 **Cybersecurity engineer** working on offensive and defensive security: web & thick-client VAPT, SOC operations, enterprise firewalls, and post-quantum authentication.
