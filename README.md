@@ -13,12 +13,12 @@ Integrated B.Tech–M.Tech (Cyber Security) at **NFSU Gandhinagar** · Graduatin
 
 ---
 
-### 🔐 What I do
+### 🔐 What I work on
 
-- **Application security:** Reported 10+ vulnerabilities in web and thick-client assessments; reopened falsely closed findings by finding alternate attack paths (Burp Suite, Nmap) — *COE Security*
-- **Network security:** Administered Fortinet, Palo Alto and Check Point NGFWs at a financial exchange — *NTT Data @ NSE IX*
-- **Detection & response:** SIEM log ingestion and alert triage with Sumo Logic and MITRE ATT&CK — *SOC Trainee*
-- **Post-quantum crypto:** Built a KEMTLS-based OIDC prototype with ML-KEM-768 and ML-DSA-65 — *HACK IITK 2026 Grand Finalist*
+- **Application security:** web and thick-client testing with Burp Suite, Nmap and OWASP ZAP
+- **Network security:** next-gen firewalls, host hardening, routing and segmentation
+- **Detection & response:** SIEM monitoring and alert triage mapped to MITRE ATT&CK
+- **Post-quantum crypto:** quantum-resistant authentication with ML-KEM and ML-DSA
 
 ### 🏆 Highlights
 
