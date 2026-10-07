@@ -1,58 +1,70 @@
-<h1 align="left">Welcome to my Github Profile!</h1>
+<a href="https://github.com/RealYash27">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&vCenter=true&width=600&lines=%24+whoami;Yashvardhan+Rao+%E2%80%94+Cybersecurity+Engineer;AppSec+%7C+VAPT+%7C+SOC+%7C+GRC+%7C+Post-Quantum+Crypto;HACK+IITK+2026+Grand+Finalist" alt="typing intro" />
+</a>
 
-###
+**Cybersecurity engineer** working on offensive and defensive security: web & thick-client VAPT, SOC operations, enterprise firewalls, and post-quantum authentication.
+Integrated B.Tech–M.Tech (Cyber Security) at **NFSU Gandhinagar** · Graduating 2027 · Based in Ahmedabad, open to relocation.
 
-<p align="left">I am an aspiring cybersecurity expert with a strong foundation in cybersecurity principles and technologies along with a keen interest in Blockchain and blockchain development!</p>
-
-###
-
-<h2 align="left">Tech</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-###
-
-###
-<!---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealYash27&show_icons=true&locale=en&layout=compact" alt="RealYash27" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashvardhan-mohit-rao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tryhackme.com/p/RealYash27"><img src="https://img.shields.io/badge/TryHackMe-Top%209%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="mailto:yashvardhan.rao@icloud.com"><img src="https://img.shields.io/badge/Email-me-555?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/></a>
 </p>
--->
+
+---
+
+### 🔐 What I do
+
+- **Application security:** Reported 10+ vulnerabilities in web and thick-client assessments; reopened falsely closed findings by finding alternate attack paths (Burp Suite, Nmap) — *COE Security*
+- **Network security:** Administered Fortinet, Palo Alto and Check Point NGFWs at a financial exchange — *NTT Data @ NSE IX*
+- **Detection & response:** SIEM log ingestion and alert triage with Sumo Logic and MITRE ATT&CK — *SOC Trainee*
+- **Post-quantum crypto:** Built a KEMTLS-based OIDC prototype with ML-KEM-768 and ML-DSA-65 — *HACK IITK 2026 Grand Finalist*
+
+### 🏆 Highlights
+
+- 🥇 **HACK IITK 2026 Grand Finalist** among 9,000+ participants (C3i Hub)
+- 🎓 **Fortinet Certified Associate in Cybersecurity**
+- 🧠 **TryHackMe top 9%** (HACKER rank)
+
+---
+
+### 🛠️ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**QuantumShield**](https://github.com/RealYash27/QuantumShield) · [live](https://quantumshield-w87u.onrender.com/) | Quantum-resistant OIDC login using KEMTLS; handshake benchmarked at ~1.08 ms, 21.6% faster than standard PQ-TLS | Python, liboqs, ML-KEM, ML-DSA |
+| [**PhishSpectre**](https://github.com/RealYash27/PhishSpectre) | Real-time phishing-detection Chrome extension: heuristics, ML scoring, typosquatting, HIBP and VirusTotal | JavaScript, Threat Intel APIs |
+| [**Phishing-ML**](https://github.com/RealYash27/Phishing-ML) | Random Forest URL classifier on 11,430 URLs and 87 structural features | Python, scikit-learn |
+| [**MudraWallet**](https://github.com/RealYash27/MudraWallet) · [live](https://mudrawallet.onrender.com/) | Non-custodial multi-chain wallet for Solana, BTC and EVM networks | Python, Flask, Web3.py, AWS |
+| [**Firewall**](https://github.com/RealYash27/Firewall) | Default-deny iptables host firewall with drop logging, validated with Nmap | Bash, iptables, Kali |
+| [**ICP**](https://github.com/RealYash27/ICP) | ICRC-1/2 token ledger canister on Internet Computer mainnet | Rust, React |
+
+---
+
+### 🧰 Toolkit
+
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B6E8D?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-C3122A?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-000099?style=flat-square)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+**Languages, cloud & dev**
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,js,rust,solidity,linux,aws,docker,git,postgres,react,flask&perline=15" alt="tech stack" />
 
 
-###
-![snake gif](https://github.com/RealYash27/RealYash27/blob/output/github-snake-dark.svg)
+---
 
-###
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RealYash27/RealYash27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RealYash27/RealYash27/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/RealYash27/RealYash27/output/github-snake-dark.svg" />
+</picture>
